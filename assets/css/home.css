@@ -2,9 +2,20 @@ html body {
   background-color: #171a1c;
 }
 
+.form-theme input {
+  color: #F1EFEF;
+  background-color: #212529;
+  border: 1px solid #F1EFEF;
+}
+.form-theme input:focus {
+  color: #F1EFEF;
+  background-color: #212529;
+  border: 1px solid #F1EFEF;
+}
+
 #table-container {
   background-color: #212529;
-  margin: 30px 60px;
+  margin: 30px 0px;
   padding: 20px;
   border-radius: 10px;
   overflow-x: auto;
@@ -21,6 +32,7 @@ html body {
 }
 #upload-table thead {
   background-color: #171a1c;
+  border-bottom: 1px solid #F1EFEF;
 }
 #upload-table thead td {
   vertical-align: middle;
@@ -58,4 +70,11 @@ html body {
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: gray;
+}
+
+/*choose file button*/
+::-webkit-file-upload-button {
+  background-color: #171a1c !important;
+  color: #F1EFEF !important;
+  border-right: 1px solid #282d31 !important;
 }/*# sourceMappingURL=home.css.map */

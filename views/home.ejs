@@ -1,35 +1,49 @@
 <link rel="stylesheet" href="/css/home.css">
 <%-include('_header.ejs')%>
-<div class="container" id="table-container">
-  <h5 class="text-center">YOUR CSV FILES</h5>
-  <table id="upload-table" class="table table-borderless">
-    <thead>
-      <tr>
-        <th scope="col">#</th>
-        <th scope="col">Name</th>
-        <th scope="col" class="btn-column text-center">View</th>
-        <th scope="col" class="btn-column text-center">Delete</th>
-      </tr>
-    </thead>
-    <tbody class="table-group-divider">
-      <tr>
-        <th scope="row">1</th>
-        <td >plaincsv.csv</td>
-        <td><button class="btn btn-success">View</button></td>
-        <td><button class="btn btn-danger">Delete</button></td>
-      </tr>
-      <tr>
-        <th scope="row">2</th>
-        <td>kadlksfjlksajlkfjsakfjlksadjfjladskjfldajsjfhgjkrnkjnfjaoivenfoinsdoioivjasndkf.csv</td>
-        <td><button class="btn btn-success">View</button></td>
-        <td><button class="btn btn-danger">Delete</button></td>
-      </tr>
-      <tr>
-        <th scope="row">3</th>
-        <td >fajkldsjfasdkflkdajflasdjfkljadllkfsajkdl.csv</td>
-        <td><button class="btn btn-success">View</button></td>
-        <td><button class="btn btn-danger">Delete</button></td>
-      </tr>
-    </tbody>
-  </table>
+<div class="container mt-4"  data-bs-theme="dark">
+  <div class="row">
+    <div class="col-lg-5 col-10 mx-auto">
+      <form class="d-flex gap-2 form-theme" data-bs-theme="dark">
+        <input class="form-control" type="file" id="csvFile" name="csvFile" placeholder="Choose CSV">
+        <button class="btn btn-outline-primary" type="submit">Upload</button>
+      </form>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12"  id="table-container">
+      <h5 class="text-center">YOUR CSV FILES</h5>
+      <table id="upload-table" class="table table-borderless">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col" class="btn-column text-center">View</th>
+            <th scope="col" class="btn-column text-center">Delete</th>
+          </tr>
+        </thead>
+        <tbody class="table-group-divider">
+          <tr>
+            <th scope="row">1</th>
+            <td >plaincsv.csv</td>
+            <td><button class="btn btn-success">View</button></td>
+            <td><button class="btn btn-danger">Delete</button></td>
+          </tr>
+          <tr>
+            <th scope="row">2</th>
+            <td>kadlksfjlksajlkfjsakfjlksadjfjladskjfldajsjfhgjkrnkjnfjaoivenfoinsdoioivjasndkf.csv</td>
+            <td><button class="btn btn-success">View</button></td>
+            <td><button class="btn btn-danger">Delete</button></td>
+          </tr>
+          <tr>
+            <th scope="row">3</th>
+            <td >fajkldsjfasdkflkdajflasdjfkljadllkfsajkdl.csv</td>
+            <td><button class="btn btn-success">View</button></td>
+            <td><button class="btn btn-danger">Delete</button></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 </div>

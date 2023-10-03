@@ -5,10 +5,6 @@ const expressLayouts = require('express-ejs-layouts');
 const db = require('./config/mongoose');
 const path = require('path');
 
-//multer
-const multer = require('multer');
-const upload = multer({dest:'./uploads'}).single("demo_image");
-
 //port number 
 const port = 8000;
 

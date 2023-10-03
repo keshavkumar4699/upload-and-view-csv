@@ -3,8 +3,8 @@
 <div class="container mt-4"  data-bs-theme="dark">
   <div class="row">
     <div class="col-lg-5 col-10 mx-auto">
-      <form class="d-flex gap-2 form-theme" data-bs-theme="dark">
-        <input class="form-control" type="file" id="csvFile" name="csvFile" placeholder="Choose CSV">
+      <form class="d-flex gap-2 form-theme" enctype="multipart/form-data" method="post" action="/upload-csv">
+        <input class="form-control" type="file" id="csvFile" name="csvFile" placeholder="Choose CSV"/>
         <button class="btn btn-outline-primary" type="submit">Upload</button>
       </form>
     </div>

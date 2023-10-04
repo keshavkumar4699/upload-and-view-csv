@@ -2,10 +2,12 @@ const mongoose = require('mongoose');
 
 const csvSchema  = new mongoose.Schema({
   name: {
-    type: String
+    type: String,
+    unique: true
   },
   path: {
-    type: String
+    type: String,
+    unique: true
   }
 },
 {

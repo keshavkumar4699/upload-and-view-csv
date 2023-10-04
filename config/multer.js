@@ -20,6 +20,7 @@ function checkFileType(file, cb) {
   if (mimetype && extname) {
     return cb(null, true);
   } else {
+    console.log("Only CSV files can be uploaded");
     return cb(null, false);
   }
 }
@@ -27,7 +28,7 @@ function checkFileType(file, cb) {
 module.exports.upload = multer({
   storage: storage,
   limits: {
-    fileSize: 200000000, // 2MB csv file size limit
+    fileSize: 200000000, // upload csv file size limit
   },
   fileFilter: function (_req, file, cb) {
     checkFileType(file, cb);

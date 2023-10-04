@@ -7,5 +7,6 @@ const indexController = require('../controllers/index_controller');
 
 router.get('/', indexController.home);
 router.post('/upload-csv', multerConfig.upload, indexController.uploadcsv);
+router.get('/destroy?:id', indexController.destroy);
 
 module.exports = router;

@@ -6,3 +6,4 @@ function deleteCSV(e){
 window.get = function(url, data) {
   return fetch(url, {method: "GET", headers: {'Content-Type': 'application/json'}, body: JSON.stringify(data)});
 }
+

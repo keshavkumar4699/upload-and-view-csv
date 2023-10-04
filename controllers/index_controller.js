@@ -34,8 +34,9 @@ module.exports.uploadcsv = function (req, res, next) {
 //method for deleting uploaded csv
 module.exports.destroy = async function(req, res){
   try{
-    let csvfile = await CSV.findByIdAndDelete(req.query.id);
-    await unlink(csvfile.path);
+    let csvfile = await CSV.findByIdAndDelete(req.query.id); //delete file from database
+    await unlink(csvfile.path); //delete files from uploads
+    return res.redirect('back');
   } catch {
     console.log("Files cannot be deleted");
   }

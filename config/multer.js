@@ -1,15 +1,13 @@
 const path = require("path");
-
-//multer
-const multer = require("multer");
+const multer = require("multer"); //multer import
 
 const storage = multer.diskStorage({
-  destination: path.join(__dirname, '../uploads/'),
+  destination: path.join(__dirname, '../uploads/'), //upload path
   filename: function (_req, file, cb) {
     cb(
       null,
       // file.fieldname + "-" + Date.now() + path.extname(file.originalname)
-      file.originalname
+      file.originalname //keeps the orignal file name when uploaded
     );
   },
 });

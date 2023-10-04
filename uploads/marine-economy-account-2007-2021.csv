@@ -1,0 +1,715 @@
+year,category,variable,units,magnitude,source,data_value,flag
+2007,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,42.1,F
+2008,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,39.4,F
+2009,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,39.9,R
+2010,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,40.8,F
+2011,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,39.9,F
+2012,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,41.6,F
+2013,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,41.7,F
+2014,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,41.1,F
+2015,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,40.3,F
+2016,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,40.8,F
+2017,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,41.6,F
+2018,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,41.8,F
+2019,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,41.4,F
+2020,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,42.7,P
+2021,Fisheries and aquaculture,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,38.6,P
+2007,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,24.5,F
+2008,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,13.5,F
+2009,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,16.2,F
+2010,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,17,F
+2011,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,18.5,F
+2012,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,19,F
+2013,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,19.8,F
+2014,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,20.4,F
+2015,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,22,F
+2016,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,29.5,F
+2017,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,27.6,F
+2018,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,27.5,F
+2019,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,27.4,F
+2020,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,28.4,P
+2021,Fisheries and aquaculture,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,28.7,P
+2007,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,41.6,F
+2008,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,38.4,F
+2009,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,38.9,F
+2010,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,38.6,F
+2011,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,38.6,F
+2012,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,40.3,F
+2013,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,39.8,F
+2014,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,39.9,F
+2015,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,34.3,F
+2016,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,33.6,F
+2017,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,35.3,F
+2018,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,35.9,F
+2019,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,35,F
+2020,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,36.1,P
+2021,Fisheries and aquaculture,Contribution to marine economy earnings,Proportion,Actual,LEED,36.8,P
+2007,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2008,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.3,F
+2009,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2010,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2011,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2012,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2013,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2014,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2015,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2016,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.5,F
+2017,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2018,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2019,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2020,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,P
+2021,Fisheries and aquaculture,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.3,P
+2007,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,715722,F
+2008,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,564630,F
+2009,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,688792,F
+2010,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,762224,F
+2011,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,851073,F
+2012,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,839194,F
+2013,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,854833,F
+2014,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,836932,F
+2015,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,931997,F
+2016,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,1155732,F
+2017,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,1072676,F
+2018,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,1162212,F
+2019,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,1196428,F
+2020,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,1297788,P
+2021,Fisheries and aquaculture,GDP,Dollars,Thousands,Environmental Accounts,1123163,P
+2007,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,615354,F
+2008,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,591765,F
+2009,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,637548,F
+2010,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,623250,F
+2011,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,650658,F
+2012,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,703318,F
+2013,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,692340,F
+2014,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,691232,F
+2015,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,670046,F
+2016,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,671836,F
+2017,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,714778,R
+2018,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,763851,R
+2019,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,785034,R
+2020,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,837069,P
+2021,Fisheries and aquaculture,Gross earnings,Dollars,Thousands,LEED,855165,P
+2007,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,203370,R
+2008,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,206220,R
+2009,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,230650,R
+2010,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,251050,R
+2011,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,271290,R
+2012,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,276220,R
+2013,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,291470,R
+2014,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,297790,R
+2015,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,284760,R
+2016,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,281240,R
+2017,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,282940,R
+2018,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,288950,R
+2019,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,305280,R
+2020,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,328510,P
+2021,Fisheries and aquaculture,Mean earnings,Dollars,Thousands,LEED,355510,P
+2007,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,15726,F
+2008,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,14655,F
+2009,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,14577,R
+2010,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,13803,F
+2011,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,13437,R
+2012,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,14109,R
+2013,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,13764,F
+2014,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,14403,R
+2015,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,14145,R
+2016,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,14598,F
+2017,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,15834,R
+2018,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,16233,R
+2019,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,16491,R
+2020,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,17349,P
+2021,Fisheries and aquaculture,Wage and salary earners,Number,Actual,LEED,15240,P
+2009,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2010,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2011,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2012,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2013,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2014,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2015,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2016,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2017,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2018,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2019,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2020,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.1,P
+2021,Government and defence,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.2,P
+2009,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2010,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2011,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2012,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2013,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2014,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2015,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2016,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2017,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2018,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2019,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2020,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,P
+2021,Government and defence,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,P
+2009,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,3297,F
+2010,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,2481,F
+2011,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,3195,F
+2012,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,5581,F
+2013,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,5408,F
+2014,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,5551,F
+2015,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,5179,F
+2016,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,4541,F
+2017,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,4416,F
+2018,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,4376,F
+2019,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,5007,F
+2020,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,5541,P
+2021,Government and defence,GDP,Dollars,Thousands,Environmental Accounts,6729,P
+2007,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.9,F
+2008,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.5,F
+2009,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.7,F
+2010,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.5,F
+2011,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.3,F
+2012,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.7,F
+2013,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.6,F
+2014,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.5,F
+2015,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.5,F
+2016,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.4,F
+2017,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.4,F
+2018,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.3,F
+2019,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.2,F
+2020,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3,P
+2021,Marine services,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3,P
+2007,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,,F
+2008,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,,F
+2009,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,2.9,F
+2010,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,3.1,F
+2011,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,2.6,F
+2012,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,3.2,F
+2013,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,3.6,F
+2014,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,3.9,F
+2015,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,5.5,F
+2016,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,4.9,F
+2017,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,-0.2,F
+2018,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,2.3,F
+2019,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,3.9,F
+2020,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,4.9,P
+2021,Marine services,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,6.3,P
+2007,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.4,F
+2008,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,5.3,F
+2009,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,5.7,F
+2010,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,5.9,F
+2011,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,5.2,F
+2012,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.3,F
+2013,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.4,F
+2014,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.7,F
+2015,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.4,F
+2016,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.2,F
+2017,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.1,F
+2018,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.5,F
+2019,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,4.3,F
+2020,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,3.9,P
+2021,Marine services,Contribution to marine economy earnings,Proportion,Actual,LEED,3.7,P
+2007,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,,F
+2008,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,,F
+2009,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2010,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2011,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2012,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2013,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2014,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2015,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2016,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2017,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2018,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2019,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,F
+2020,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,P
+2021,Marine services,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,P
+2007,Marine services,GDP,Dollars,Thousands,Environmental Accounts,,F
+2008,Marine services,GDP,Dollars,Thousands,Environmental Accounts,,F
+2009,Marine services,GDP,Dollars,Thousands,Environmental Accounts,125559,F
+2010,Marine services,GDP,Dollars,Thousands,Environmental Accounts,136986,F
+2011,Marine services,GDP,Dollars,Thousands,Environmental Accounts,120131,F
+2012,Marine services,GDP,Dollars,Thousands,Environmental Accounts,139137,F
+2013,Marine services,GDP,Dollars,Thousands,Environmental Accounts,154022,F
+2014,Marine services,GDP,Dollars,Thousands,Environmental Accounts,158223,F
+2015,Marine services,GDP,Dollars,Thousands,Environmental Accounts,234404,F
+2016,Marine services,GDP,Dollars,Thousands,Environmental Accounts,193947,F
+2017,Marine services,GDP,Dollars,Thousands,Environmental Accounts,-6739,F
+2018,Marine services,GDP,Dollars,Thousands,Environmental Accounts,96299,F
+2019,Marine services,GDP,Dollars,Thousands,Environmental Accounts,170368,F
+2020,Marine services,GDP,Dollars,Thousands,Environmental Accounts,225655,P
+2021,Marine services,GDP,Dollars,Thousands,Environmental Accounts,247311,P
+2007,Marine services,Gross earnings,Dollars,Thousands,LEED,65380,F
+2008,Marine services,Gross earnings,Dollars,Thousands,LEED,80915,F
+2009,Marine services,Gross earnings,Dollars,Thousands,LEED,92838,F
+2010,Marine services,Gross earnings,Dollars,Thousands,LEED,95249,F
+2011,Marine services,Gross earnings,Dollars,Thousands,LEED,88071,F
+2012,Marine services,Gross earnings,Dollars,Thousands,LEED,75777,F
+2013,Marine services,Gross earnings,Dollars,Thousands,LEED,76292,F
+2014,Marine services,Gross earnings,Dollars,Thousands,LEED,81033,F
+2015,Marine services,Gross earnings,Dollars,Thousands,LEED,85974,F
+2016,Marine services,Gross earnings,Dollars,Thousands,LEED,83211,F
+2017,Marine services,Gross earnings,Dollars,Thousands,LEED,82962,F
+2018,Marine services,Gross earnings,Dollars,Thousands,LEED,96676,F
+2019,Marine services,Gross earnings,Dollars,Thousands,LEED,96502,F
+2020,Marine services,Gross earnings,Dollars,Thousands,LEED,89485,P
+2021,Marine services,Gross earnings,Dollars,Thousands,LEED,85067,P
+2007,Marine services,Mean earnings,Dollars,Thousands,LEED,44570,R
+2008,Marine services,Mean earnings,Dollars,Thousands,LEED,48220,R
+2009,Marine services,Mean earnings,Dollars,Thousands,LEED,54010,R
+2010,Marine services,Mean earnings,Dollars,Thousands,LEED,62620,R
+2011,Marine services,Mean earnings,Dollars,Thousands,LEED,61590,R
+2012,Marine services,Mean earnings,Dollars,Thousands,LEED,60090,R
+2013,Marine services,Mean earnings,Dollars,Thousands,LEED,63470,R
+2014,Marine services,Mean earnings,Dollars,Thousands,LEED,66640,R
+2015,Marine services,Mean earnings,Dollars,Thousands,LEED,70070,R
+2016,Marine services,Mean earnings,Dollars,Thousands,LEED,68320,R
+2017,Marine services,Mean earnings,Dollars,Thousands,LEED,63620,R
+2018,Marine services,Mean earnings,Dollars,Thousands,LEED,74770,R
+2019,Marine services,Mean earnings,Dollars,Thousands,LEED,75100,R
+2020,Marine services,Mean earnings,Dollars,Thousands,LEED,73830,P
+2021,Marine services,Mean earnings,Dollars,Thousands,LEED,72030,P
+2007,Marine services,Wage and salary earners,Number,Actual,LEED,1467,F
+2008,Marine services,Wage and salary earners,Number,Actual,LEED,1677,F
+2009,Marine services,Wage and salary earners,Number,Actual,LEED,1719,F
+2010,Marine services,Wage and salary earners,Number,Actual,LEED,1521,F
+2011,Marine services,Wage and salary earners,Number,Actual,LEED,1431,F
+2012,Marine services,Wage and salary earners,Number,Actual,LEED,1260,F
+2013,Marine services,Wage and salary earners,Number,Actual,LEED,1203,F
+2014,Marine services,Wage and salary earners,Number,Actual,LEED,1215,F
+2015,Marine services,Wage and salary earners,Number,Actual,LEED,1227,F
+2016,Marine services,Wage and salary earners,Number,Actual,LEED,1218,F
+2017,Marine services,Wage and salary earners,Number,Actual,LEED,1305,F
+2018,Marine services,Wage and salary earners,Number,Actual,LEED,1293,F
+2019,Marine services,Wage and salary earners,Number,Actual,LEED,1284,R
+2020,Marine services,Wage and salary earners,Number,Actual,LEED,1212,P
+2021,Marine services,Wage and salary earners,Number,Actual,LEED,1182,P
+2007,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3,F
+2008,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.3,F
+2009,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3,F
+2010,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2011,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3,F
+2012,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2013,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2014,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2015,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2016,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.2,F
+2017,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.2,F
+2018,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.2,F
+2019,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.4,F
+2020,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.4,P
+2021,Marine tourism and recreation,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.6,P
+2007,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,,F
+2008,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,,F
+2009,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2010,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.8,F
+2011,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2012,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,1.2,F
+2013,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,1,F
+2014,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.2,F
+2015,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,0.8,F
+2016,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,1.6,F
+2017,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,2.2,F
+2018,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,2.2,F
+2019,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,2.3,F
+2020,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,2.2,P
+2021,Marine tourism and recreation,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,3.2,P
+2007,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,2,F
+2008,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,2.1,F
+2009,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.9,F
+2010,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.9,F
+2011,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.8,F
+2012,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.8,F
+2013,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.8,F
+2014,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.9,F
+2015,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.8,F
+2016,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,1.9,F
+2017,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,2.2,F
+2018,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,2.2,F
+2019,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,2.3,F
+2020,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,2.3,P
+2021,Marine tourism and recreation,Contribution to marine economy earnings,Proportion,Actual,LEED,2.5,P
+2007,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,,F
+2008,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,,F
+2009,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2010,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2011,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2012,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2013,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2014,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2015,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2016,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2017,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2018,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2019,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,F
+2020,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,P
+2021,Marine tourism and recreation,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0,P
+2007,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,,F
+2008,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,,F
+2009,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,27078,F
+2010,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,35932,F
+2011,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,28580,F
+2012,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,51586,F
+2013,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,43041,F
+2014,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,10103,F
+2015,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,33160,F
+2016,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,62919,F
+2017,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,83570,F
+2018,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,94893,F
+2019,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,101817,F
+2020,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,99966,P
+2021,Marine tourism and recreation,GDP,Dollars,Thousands,Environmental Accounts,125277,P
+2007,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,28948,F
+2008,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,33070,F
+2009,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,31817,F
+2010,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,30274,F
+2011,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,30578,F
+2012,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,31572,F
+2013,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,30939,F
+2014,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,32173,F
+2015,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,34378,F
+2016,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,38667,R
+2017,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,43754,F
+2018,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,46726,F
+2019,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,51550,R
+2020,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,53890,P
+2021,Marine tourism and recreation,Gross earnings,Dollars,Thousands,LEED,57542,P
+2007,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,25600,R
+2008,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,27040,R
+2009,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,29460,R
+2010,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,30460,R
+2011,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,30670,R
+2012,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,31700,R
+2013,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,31960,R
+2014,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,32110,R
+2015,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,33970,R
+2016,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,34220,R
+2017,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,36040,R
+2018,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,37140,R
+2019,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,38300,R
+2020,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,39220,P
+2021,Marine tourism and recreation,Mean earnings,Dollars,Thousands,LEED,40490,P
+2007,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1131,F
+2008,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1221,F
+2009,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1080,F
+2010,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,996,R
+2011,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,996,F
+2012,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,996,F
+2013,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,969,F
+2014,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1002,F
+2015,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1014,F
+2016,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1131,F
+2017,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1215,F
+2018,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1257,F
+2019,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1344,F
+2020,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1374,P
+2021,Marine tourism and recreation,Wage and salary earners,Number,Actual,LEED,1419,P
+2007,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.5,F
+2008,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.5,F
+2009,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.5,F
+2010,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2011,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2012,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.8,F
+2013,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.9,F
+2014,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.7,F
+2015,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.9,F
+2016,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.5,F
+2017,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4.1,F
+2018,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,4,F
+2019,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.7,F
+2020,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,3.4,P
+2021,Offshore minerals,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,2.7,P
+2007,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,26.9,F
+2008,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,52.5,F
+2009,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,54.2,F
+2010,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,51.3,F
+2011,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,50.4,F
+2012,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,48,F
+2013,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,45.3,F
+2014,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,41.6,F
+2015,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,38.4,F
+2016,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,24.2,F
+2017,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,24.8,F
+2018,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,25.9,F
+2019,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,23,F
+2020,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,21,P
+2021,Offshore minerals,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,9,P
+2007,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,5.8,F
+2008,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,6.2,F
+2009,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,6.7,F
+2010,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,7.3,F
+2011,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,7.2,F
+2012,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,6.6,F
+2013,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,6.8,F
+2014,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,11.6,F
+2015,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,12.2,F
+2016,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,11.3,F
+2017,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,10.2,F
+2018,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,9.7,F
+2019,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,9.4,F
+2020,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,7.3,P
+2021,Offshore minerals,Contribution to marine economy earnings,Proportion,Actual,LEED,5.2,P
+2007,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.5,F
+2008,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.2,F
+2009,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.2,F
+2010,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.2,F
+2011,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.1,F
+2012,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1,F
+2013,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.9,F
+2014,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.7,F
+2015,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.7,F
+2016,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2017,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2018,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.4,F
+2019,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.3,F
+2020,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.3,P
+2021,Offshore minerals,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.1,P
+2007,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,787078,F
+2008,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,2200130,F
+2009,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,2309240,F
+2010,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,2297657,F
+2011,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,2322137,F
+2012,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,2117062,F
+2013,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,1951832,F
+2014,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,1705289,F
+2015,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,1625954,F
+2016,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,949090,F
+2017,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,961954,F
+2018,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,1095510,F
+2019,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,1004507,F
+2020,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,958490,P
+2021,Offshore minerals,GDP,Dollars,Thousands,Environmental Accounts,352000,P
+2007,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,86330,F
+2008,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,95761,F
+2009,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,109183,F
+2010,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,117419,F
+2011,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,121834,F
+2012,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,115350,F
+2013,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,117852,F
+2014,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,200878,F
+2015,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,238285,F
+2016,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,225517,F
+2017,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,205909,F
+2018,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,206436,F
+2019,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,211368,F
+2020,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,169383,P
+2021,Offshore minerals,Gross earnings,Dollars,Thousands,LEED,120749,P
+2007,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,93840,R
+2008,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,103190,R
+2009,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,119720,R
+2010,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,120310,R
+2011,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,124830,R
+2012,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,122840,R
+2013,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,123790,R
+2014,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,121300,R
+2015,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,139760,R
+2016,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,139120,R
+2017,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,132760,R
+2018,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,131320,R
+2019,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,142910,R
+2020,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,123820,P
+2021,Offshore minerals,Mean earnings,Dollars,Thousands,LEED,111910,P
+2007,Offshore minerals,Wage and salary earners,Number,Actual,LEED,918,F
+2008,Offshore minerals,Wage and salary earners,Number,Actual,LEED,927,R
+2009,Offshore minerals,Wage and salary earners,Number,Actual,LEED,912,F
+2010,Offshore minerals,Wage and salary earners,Number,Actual,LEED,975,F
+2011,Offshore minerals,Wage and salary earners,Number,Actual,LEED,978,R
+2012,Offshore minerals,Wage and salary earners,Number,Actual,LEED,939,F
+2013,Offshore minerals,Wage and salary earners,Number,Actual,LEED,954,R
+2014,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1656,F
+2015,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1704,F
+2016,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1623,R
+2017,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1551,F
+2018,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1572,F
+2019,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1479,F
+2020,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1368,P
+2021,Offshore minerals,Wage and salary earners,Number,Actual,LEED,1080,P
+2007,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,48.5,F
+2008,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,50.4,F
+2009,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,50,F
+2010,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,48.9,F
+2011,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,50,F
+2012,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,48.9,R
+2013,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,48.8,R
+2014,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,47.9,F
+2015,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,48.5,F
+2016,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,48.1,R
+2017,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,47.7,F
+2018,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,47.6,F
+2019,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,48.3,F
+2020,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,47.5,P
+2021,Shipping,Cont. to ME Wage and salary earners,Proportion,Actual,LEED,52.1,P
+2007,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,40.7,F
+2008,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,28.5,F
+2009,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,25.9,F
+2010,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,27.8,F
+2011,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,27.9,F
+2012,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,28.6,F
+2013,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,30.2,F
+2014,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,33.7,F
+2015,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,33.2,F
+2016,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,39.7,F
+2017,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,45.6,F
+2018,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,41.9,F
+2019,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,43.3,F
+2020,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,43.4,P
+2021,Shipping,Contribution to marine economy GDP,Proportion,Actual,Environmental Accounts,52.6,P
+2007,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,46.2,F
+2008,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,48,F
+2009,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,46.8,F
+2010,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,46.4,F
+2011,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,47.2,F
+2012,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,46.9,F
+2013,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,47.3,F
+2014,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,41.9,F
+2015,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,47.4,F
+2016,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,49,F
+2017,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,48.3,F
+2018,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,47.7,R
+2019,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,49,R
+2020,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,50.5,P
+2021,Shipping,Contribution to marine economy earnings,Proportion,Actual,LEED,51.8,P
+2007,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.7,F
+2008,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2009,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2010,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2011,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2012,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2013,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2014,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2015,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2016,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2017,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.7,F
+2018,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2019,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,F
+2020,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,P
+2021,Shipping,Contribution to total GDP,Proportion,Actual,Environmental Accounts,0.6,P
+2007,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1188749,F
+2008,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1194751,F
+2009,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1102803,F
+2010,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1245291,F
+2011,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1286000,F
+2012,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1259813,F
+2013,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1303587,F
+2014,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1379831,F
+2015,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1408034,F
+2016,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1557587,F
+2017,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1770110,F
+2018,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1769305,F
+2019,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1895163,F
+2020,Shipping,GDP,Dollars,Thousands,Environmental Accounts,1981019,P
+2021,Shipping,GDP,Dollars,Thousands,Environmental Accounts,2059736,P
+2007,Shipping,Gross earnings,Dollars,Thousands,LEED,684551,F
+2008,Shipping,Gross earnings,Dollars,Thousands,LEED,738517,F
+2009,Shipping,Gross earnings,Dollars,Thousands,LEED,765825,F
+2010,Shipping,Gross earnings,Dollars,Thousands,LEED,749520,F
+2011,Shipping,Gross earnings,Dollars,Thousands,LEED,796254,F
+2012,Shipping,Gross earnings,Dollars,Thousands,LEED,818253,F
+2013,Shipping,Gross earnings,Dollars,Thousands,LEED,821804,F
+2014,Shipping,Gross earnings,Dollars,Thousands,LEED,725337,F
+2015,Shipping,Gross earnings,Dollars,Thousands,LEED,927334,R
+2016,Shipping,Gross earnings,Dollars,Thousands,LEED,980426,R
+2017,Shipping,Gross earnings,Dollars,Thousands,LEED,979662,R
+2018,Shipping,Gross earnings,Dollars,Thousands,LEED,1014095,R
+2019,Shipping,Gross earnings,Dollars,Thousands,LEED,1097686,R
+2020,Shipping,Gross earnings,Dollars,Thousands,LEED,1171953,P
+2021,Shipping,Gross earnings,Dollars,Thousands,LEED,1203077,P
+2007,Shipping,Mean earnings,Dollars,Thousands,LEED,181460,R
+2008,Shipping,Mean earnings,Dollars,Thousands,LEED,189480,R
+2009,Shipping,Mean earnings,Dollars,Thousands,LEED,201270,R
+2010,Shipping,Mean earnings,Dollars,Thousands,LEED,215570,R
+2011,Shipping,Mean earnings,Dollars,Thousands,LEED,224250,R
+2012,Shipping,Mean earnings,Dollars,Thousands,LEED,233240,R
+2013,Shipping,Mean earnings,Dollars,Thousands,LEED,236780,R
+2014,Shipping,Mean earnings,Dollars,Thousands,LEED,215090,R
+2015,Shipping,Mean earnings,Dollars,Thousands,LEED,252600,R
+2016,Shipping,Mean earnings,Dollars,Thousands,LEED,265520,R
+2017,Shipping,Mean earnings,Dollars,Thousands,LEED,259010,R
+2018,Shipping,Mean earnings,Dollars,Thousands,LEED,264960,R
+2019,Shipping,Mean earnings,Dollars,Thousands,LEED,277030,R
+2020,Shipping,Mean earnings,Dollars,Thousands,LEED,287920,P
+2021,Shipping,Mean earnings,Dollars,Thousands,LEED,283900,P
+2007,Shipping,Wage and salary earners,Number,Actual,LEED,18111,R
+2008,Shipping,Wage and salary earners,Number,Actual,LEED,18756,F
+2009,Shipping,Wage and salary earners,Number,Actual,LEED,18288,F
+2010,Shipping,Wage and salary earners,Number,Actual,LEED,16524,R
+2011,Shipping,Wage and salary earners,Number,Actual,LEED,16812,F
+2012,Shipping,Wage and salary earners,Number,Actual,LEED,16590,F
+2013,Shipping,Wage and salary earners,Number,Actual,LEED,16128,R
+2014,Shipping,Wage and salary earners,Number,Actual,LEED,16794,R
+2015,Shipping,Wage and salary earners,Number,Actual,LEED,17031,R
+2016,Shipping,Wage and salary earners,Number,Actual,LEED,17181,R
+2017,Shipping,Wage and salary earners,Number,Actual,LEED,18177,R
+2018,Shipping,Wage and salary earners,Number,Actual,LEED,18525,R
+2019,Shipping,Wage and salary earners,Number,Actual,LEED,19269,R
+2020,Shipping,Wage and salary earners,Number,Actual,LEED,19290,P
+2021,Shipping,Wage and salary earners,Number,Actual,LEED,20553,P
+2007,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.7,F
+2008,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,2.2,F
+2009,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,2.2,F
+2010,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,2.3,F
+2011,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,2.3,F
+2012,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,2.1,F
+2013,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,2,F
+2014,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.8,F
+2015,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.7,F
+2016,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.5,F
+2017,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.4,F
+2018,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.5,F
+2019,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.4,F
+2020,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.4,P
+2021,Total marine economy,Contribution to total GDP,Proportion,Actual,Environmental Accounts,1.2,P
+2007,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,2921561,F
+2008,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4187783,F
+2009,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4256769,F
+2010,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4480573,F
+2011,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4611116,F
+2012,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4412374,F
+2013,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4312723,F
+2014,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4095929,F
+2015,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4238729,F
+2016,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,3923816,F
+2017,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,3885987,F
+2018,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4222595,F
+2019,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4373290,F
+2020,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,4568459,P
+2021,Total marine economy,GDP,Dollars,Thousands,Environmental Accounts,3914217,P
+2007,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1480564,F
+2008,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1540028,F
+2009,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1637211,F
+2010,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1615712,F
+2011,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1687395,F
+2012,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1744269,F
+2013,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1739228,F
+2014,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1730652,F
+2015,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1956018,R
+2016,Total marine economy,Gross earnings,Dollars,Thousands,LEED,1999658,R
+2017,Total marine economy,Gross earnings,Dollars,Thousands,LEED,2027065,R
+2018,Total marine economy,Gross earnings,Dollars,Thousands,LEED,2127784,R
+2019,Total marine economy,Gross earnings,Dollars,Thousands,LEED,2242141,R
+2020,Total marine economy,Gross earnings,Dollars,Thousands,LEED,2321779,P
+2021,Total marine economy,Gross earnings,Dollars,Thousands,LEED,2321600,P
+2007,Total marine economy,Mean earnings,Dollars,Thousands,LEED,548840,R
+2008,Total marine economy,Mean earnings,Dollars,Thousands,LEED,574150,R
+2009,Total marine economy,Mean earnings,Dollars,Thousands,LEED,635110,R
+2010,Total marine economy,Mean earnings,Dollars,Thousands,LEED,680010,R
+2011,Total marine economy,Mean earnings,Dollars,Thousands,LEED,712630,R
+2012,Total marine economy,Mean earnings,Dollars,Thousands,LEED,724090,R
+2013,Total marine economy,Mean earnings,Dollars,Thousands,LEED,747470,R
+2014,Total marine economy,Mean earnings,Dollars,Thousands,LEED,732930,R
+2015,Total marine economy,Mean earnings,Dollars,Thousands,LEED,781160,R
+2016,Total marine economy,Mean earnings,Dollars,Thousands,LEED,788420,R
+2017,Total marine economy,Mean earnings,Dollars,Thousands,LEED,774370,R
+2018,Total marine economy,Mean earnings,Dollars,Thousands,LEED,797140,R
+2019,Total marine economy,Mean earnings,Dollars,Thousands,LEED,838620,R
+2020,Total marine economy,Mean earnings,Dollars,Thousands,LEED,853300,P
+2021,Total marine economy,Mean earnings,Dollars,Thousands,LEED,863840,P
+2007,Total marine economy,Wage and salary earners,Number,Actual,LEED,37353,R
+2008,Total marine economy,Wage and salary earners,Number,Actual,LEED,37236,R
+2009,Total marine economy,Wage and salary earners,Number,Actual,LEED,36576,R
+2010,Total marine economy,Wage and salary earners,Number,Actual,LEED,33819,R
+2011,Total marine economy,Wage and salary earners,Number,Actual,LEED,33654,R
+2012,Total marine economy,Wage and salary earners,Number,Actual,LEED,33894,R
+2013,Total marine economy,Wage and salary earners,Number,Actual,LEED,33018,F
+2014,Total marine economy,Wage and salary earners,Number,Actual,LEED,35070,R
+2015,Total marine economy,Wage and salary earners,Number,Actual,LEED,35121,R
+2016,Total marine economy,Wage and salary earners,Number,Actual,LEED,35751,R
+2017,Total marine economy,Wage and salary earners,Number,Actual,LEED,38082,R
+2018,Total marine economy,Wage and salary earners,Number,Actual,LEED,38880,R
+2019,Total marine economy,Wage and salary earners,Number,Actual,LEED,39867,R
+2020,Total marine economy,Wage and salary earners,Number,Actual,LEED,40593,P
+2021,Total marine economy,Wage and salary earners,Number,Actual,LEED,39474,P

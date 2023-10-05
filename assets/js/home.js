@@ -63,8 +63,7 @@ function delete_csv(e) {
 
 //for viewing csv files
 function view_csv(e){
-  console.log("view csv clicked");
-  let url = `/viewcsv?id=${e.getAttribute("data-id")}`;
+  let url = `/csv/fetch_csv_data?id=${e.getAttribute("data-id")}`;
   window.get(url);
 }
 

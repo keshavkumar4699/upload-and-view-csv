@@ -1,6 +1,5 @@
 const CSV = require("../models/csv");
 const { unlink } = require('node:fs/promises');
-const csv_to_json = require('csvtojson');
 
 //method for home page view
 module.exports.home = async function (req, res) {
@@ -51,19 +50,3 @@ module.exports.destroy = async function (req, res) {
     console.log("Files cannot be deleted", err);
   }
 };
-
-//method for viewing clicked csv file
-module.exports.viewcsv = async function (req, res) {
-  var results = [];
-  try{
-    console.log(req.query.id);
-    let csvfile = await CSV.findById(req.query.id); //select file with id from database
-    console.log(csvfile.path);
-    csv_to_json().fromFile(csvfile.path)
-    .then(data => {
-      console.log(data);
-    });
-  } catch(err) {
-    console.log("error occured", err);
-  }
-}

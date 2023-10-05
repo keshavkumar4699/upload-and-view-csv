@@ -1,28 +1,25 @@
 load_table();
-
+localStorage.clear();
 //load all csv files from database
 function load_table() {
   $.ajax({
     url: "/getcsvfiles",
     method: "GET",
     contentType: "application/json",
-    data: '',
+    data: "",
     success: function (res) {
       var html = "";
-      if(res.csvfile.length > 0)
-      {
-        for(var count = 0; count < res.csvfile.length; count++)
-        {
-          html += `
-          <tr scope="row">
-            <td>`+res.csvfile[count].name+`</td>
-            <td><button class="btn btn-success" onclick="view_csv(this)" data-id="`+res.csvfile[count]._id+`">View</button></td>
-            <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="`+res.csvfile[count]._id+`">Delete</button></td>
-          </tr>
-          `;
+      if (res.csvfile.length > 0) {
+        for (var count = 0; count < res.csvfile.length; count++) {
+          html +=
+            `<tr scope="row">
+            <td>` +res.csvfile[count].name+`</td>
+            <td><button class="btn btn-success" onclick="view_csv(this)" data-id="` +res.csvfile[count]._id+ `">View</button></td>
+            <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="` +res.csvfile[count]._id+ `">Delete</button></td>
+          </tr>`;
         }
       }
-      $('#upload-table tbody').html(html);
+      $("#upload-table tbody").html(html);
     },
   });
 }
@@ -38,19 +35,18 @@ $(`#getcsv`).on("submit", function (event) {
     processData: false,
     contentType: false,
     success: function (res) {
-      html = `
-        <tr scope="row">
-          <td>`+res.response.name+`</td>
+      html =
+        `<tr scope="row">
+          <td>` + res.response.name + `</td>
           <td><button class="btn btn-success" onclick="view_csv(this)" data-id="`+res.response.id+`">View</button></td>
           <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="`+res.response.id+`">Delete</button></td>
-        </tr>
-        `;
+        </tr>`;
       $("#upload-table tbody").prepend(html);
       $("#csvfile").val("");
     },
-    error: function(error){
+    error: function (error) {
       console.log("some error", error);
-    }
+    },
   });
 });
 
@@ -61,13 +57,7 @@ function delete_csv(e) {
   load_table();
 }
 
-//for viewing csv files
-function view_csv(e){
-  let url = `/csv/fetch_csv_data?id=${e.getAttribute("data-id")}`;
-  window.get(url);
-}
-
-//redirect url function
+//redirect url function via get method
 window.get = function (url, data) {
   return fetch(url, {
     method: "GET",
@@ -75,3 +65,10 @@ window.get = function (url, data) {
     body: JSON.stringify(data),
   });
 };
+
+//redirect with id to csv/view
+function view_csv(e) {
+  let url = `/csv/view`;
+  localStorage.setItem("id", e.getAttribute("data-id"));
+  location.href = url;
+}

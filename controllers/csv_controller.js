@@ -16,8 +16,8 @@ module.exports.fetch_csv_data = async function (req, res) {
     csv_to_json().fromFile(csvfile.path)
     .then(data => {
       console.log(data);
+      return res.send({ csvdata: data });
     });
-    // return res.send({ csvdata: data });
   } catch(err) {
     console.log("error occured", err);
   }

@@ -56,6 +56,7 @@ $(`#getcsv`).on("submit", function (event) {
 function deleteCSV(e) {
   let url = `/destroy?id=${e.getAttribute("data-id")}`;
   window.get(url);
+  load_table();
 }
 
 window.get = function (url, data) {

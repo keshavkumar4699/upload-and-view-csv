@@ -10,7 +10,7 @@ html body {
 
 #table-container{
   background-color: $mid-dark;
-  margin: 30px 0px;
+  margin: 30px 0px 20px;
   padding: 20px;
   border-radius: 10px;
   overflow-x: auto;
@@ -40,6 +40,30 @@ html body {
     tr:hover{
       background-color: $hi-dark;
     }
+  }
+}
+
+.page-switch{
+  display: flex;
+  justify-content: center;
+  color: $li-color;
+  gap: 10px;
+  margin-bottom: 20px;
+  button{
+    background-color: $li-dark;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    box-shadow: 0px 0px 0px $pri-color;
+    transition: all 100ms ease-in-out;
+    i{
+      color: $li-color;
+    }
+  }
+  button:hover{
+    background-color: $mid-dark;
+    box-shadow: 0px 0px 6px $pri-color;
+    transform: scale(1.05);
   }
 }
 

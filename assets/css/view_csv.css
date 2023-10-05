@@ -4,7 +4,7 @@ html body {
 
 #table-container {
   background-color: #212529;
-  margin: 30px 0px;
+  margin: 30px 0px 20px;
   padding: 20px;
   border-radius: 10px;
   overflow-x: auto;
@@ -30,6 +30,30 @@ html body {
 }
 #upload-table tbody tr:hover {
   background-color: #171a1c;
+}
+
+.page-switch {
+  display: flex;
+  justify-content: center;
+  color: #F1EFEF;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.page-switch button {
+  background-color: #282d31;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  box-shadow: 0px 0px 0px #CCC8AA;
+  transition: all 100ms ease-in-out;
+}
+.page-switch button i {
+  color: #F1EFEF;
+}
+.page-switch button:hover {
+  background-color: #212529;
+  box-shadow: 0px 0px 6px #CCC8AA;
+  transform: scale(1.05);
 }
 
 /* width */

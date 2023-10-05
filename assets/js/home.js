@@ -1,5 +1,6 @@
 load_table();
 
+//load all csv files from database
 function load_table() {
   $.ajax({
     url: "/getcsvfiles",
@@ -15,8 +16,8 @@ function load_table() {
           html += `
           <tr scope="row">
             <td>`+res.csvfile[count].name+`</td>
-            <td><button class="btn btn-success">View</button></td>
-            <td><button class="btn btn-danger" onclick="deleteCSV(this)" data-id="`+res.csvfile[count]._id+`">Delete</button></td>
+            <td><button class="btn btn-success" onclick="view_csv(this)" data-id="`+res.csvfile[count]._id+`">View</button></td>
+            <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="`+res.csvfile[count]._id+`">Delete</button></td>
           </tr>
           `;
         }
@@ -26,6 +27,7 @@ function load_table() {
   });
 }
 
+//add new csv file
 $(`#getcsv`).on("submit", function (event) {
   event.preventDefault();
   var formdata = new FormData(this);
@@ -36,12 +38,11 @@ $(`#getcsv`).on("submit", function (event) {
     processData: false,
     contentType: false,
     success: function (res) {
-      console.log("result", res);
       html = `
         <tr scope="row">
           <td>`+res.response.name+`</td>
-          <td><button class="btn btn-success">View</button></td>
-          <td><button class="btn btn-danger" onclick="deleteCSV(this)" data-id="`+res.response.id+`">Delete</button></td>
+          <td><button class="btn btn-success" onclick="view_csv(this)" data-id="`+res.response.id+`">View</button></td>
+          <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="`+res.response.id+`">Delete</button></td>
         </tr>
         `;
       $("#upload-table tbody").prepend(html);
@@ -53,12 +54,21 @@ $(`#getcsv`).on("submit", function (event) {
   });
 });
 
-function deleteCSV(e) {
+//for deleting csv files
+function delete_csv(e) {
   let url = `/destroy?id=${e.getAttribute("data-id")}`;
   window.get(url);
   load_table();
 }
 
+//for viewing csv files
+function view_csv(e){
+  console.log("view csv clicked");
+  let url = `/viewcsv?id=${e.getAttribute("data-id")}`;
+  window.get(url);
+}
+
+//redirect url function
 window.get = function (url, data) {
   return fetch(url, {
     method: "GET",

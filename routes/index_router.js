@@ -9,5 +9,6 @@ router.get('/', indexController.home);
 router.get('/getcsvfiles', indexController.getcsvfiles);
 router.post('/upload-csv', multerConfig.upload, indexController.uploadcsv);
 router.get('/destroy?:id', indexController.destroy);
+router.get('/viewcsv?:id', indexController.viewcsv);
 
 module.exports = router;

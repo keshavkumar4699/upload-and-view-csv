@@ -84,3 +84,15 @@ $(`#right-page`).click(function(event){
     load_table(row_count);
   }
 });
+
+//TODO: display data when sorting is implemented
+function display_csv_data(data){
+  $.ajax({
+    url:`/csv/display_csv_data`,
+    type: `POST`,
+    data: {data: data},
+    success: function(res){
+      console.log(res);
+    }
+  })
+}

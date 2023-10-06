@@ -10,15 +10,23 @@ module.exports.view = async function (req, res){
 
 //method for viewing clicked csv file
 module.exports.fetch_csv_data = async function (req, res) {
-  var results = [];
   try{
     let csvfile = await CSV.findById(req.query.id); //select file with id from database
     csv_to_json().fromFile(csvfile.path)
     .then(data => {
-      console.log(data);
       return res.send({ csvdata: data });
     });
   } catch(err) {
     console.log("error occured", err);
+  }
+}
+
+//method for displaying the requested csv data
+//TODO: Implement to call on frontend when display csv is called
+module.exports.display_csv_data = async function (req, res){
+  try{
+    res.send(req.body.data);
+  } catch (err) {
+    console.log(err);
   }
 }

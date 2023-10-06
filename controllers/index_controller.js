@@ -12,6 +12,7 @@ module.exports.home = async function (req, res) {
   }
 };
 
+//method to get csv files from database
 module.exports.getcsvfiles = async function (req, res) {
   try {
     let csvfile = await CSV.find({}).sort({ updatedAt: "desc" }); //fetch csv files list from database and sort them

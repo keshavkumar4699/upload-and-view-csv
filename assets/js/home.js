@@ -1,5 +1,6 @@
 load_table();
 localStorage.clear();
+
 //load all csv files from database
 function load_table() {
   $.ajax({
@@ -12,7 +13,7 @@ function load_table() {
       if (res.csvfile.length > 0) {
         for (var count = 0; count < res.csvfile.length; count++) {
           html +=
-            `<tr scope="row">
+          `<tr scope="row">
             <td>` +res.csvfile[count].name+`</td>
             <td><button class="btn btn-success" onclick="view_csv(this)" data-id="` +res.csvfile[count]._id+ `">View</button></td>
             <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="` +res.csvfile[count]._id+ `">Delete</button></td>
@@ -28,26 +29,33 @@ function load_table() {
 $(`#getcsv`).on("submit", function (event) {
   event.preventDefault();
   var formdata = new FormData(this);
-  $.ajax({
-    type: "POST",
-    url: "/upload-csv",
-    data: formdata,
-    processData: false,
-    contentType: false,
-    success: function (res) {
-      html =
-        `<tr scope="row">
-          <td>` + res.response.name + `</td>
-          <td><button class="btn btn-success" onclick="view_csv(this)" data-id="`+res.response.id+`">View</button></td>
-          <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="`+res.response.id+`">Delete</button></td>
-        </tr>`;
-      $("#upload-table tbody").prepend(html);
-      $("#csvfile").val("");
-    },
-    error: function (error) {
-      console.log("some error", error);
-    },
-  });
+  var fileInput = document.getElementById('csvfile');
+  var filePath = fileInput.value;
+  var allowedExtensions = /(\.csv)$/i;
+  if(!allowedExtensions.exec(filePath)){
+    alert('Invalid file type. Only csv');
+  } else {
+    $.ajax({
+      type: "POST",
+      url: "/upload-csv",
+      data: formdata,
+      processData: false,
+      contentType: false,
+      success: function (res) {
+        html =
+          `<tr scope="row">
+            <td>` + res.response.name + `</td>
+            <td><button class="btn btn-success" onclick="view_csv(this)" data-id="`+res.response.id+`">View</button></td>
+            <td><button class="btn btn-danger" onclick="delete_csv(this)" data-id="`+res.response.id+`">Delete</button></td>
+          </tr>`;
+        $("#upload-table tbody").prepend(html);
+        $("#csvfile").val("");
+      },
+      error: function (error) {
+        console.log("some error", error);
+      },
+    });
+  }
 });
 
 //for deleting csv files

@@ -16,7 +16,7 @@ module.exports.home = async function (req, res) {
 module.exports.getcsvfiles = async function (req, res) {
   try {
     let csvfile = await CSV.find({}).sort({ updatedAt: "desc" }); //fetch csv files list from database and sort them
-    return res.send({ csvfile: csvfile });
+    return res.send({ csvfile: csvfile }); //send csvfile data as csvfile
   } catch (err) {
     console.log("**error encountered**", err);
   }
@@ -29,10 +29,10 @@ module.exports.uploadcsv = async function (req, res, next) {
       let file = {
         name: req.file.filename,
         path: req.file.path,
-      };
+      };//setup file to create new
       let newfile = await CSV.create(file); //create new csv file in database
       file.id = String(newfile._id);
-      res.send({ response: file });
+      res.send({ response: file }); //send file as response
     } else {
       console.log("Only CSV files can be uploaded"); //check if uploaded file is csv or not (if undefined then it's not csv)
     }

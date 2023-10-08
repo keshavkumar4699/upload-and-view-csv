@@ -3,6 +3,7 @@
 <div class="container mt-4"  data-bs-theme="dark">
   <div class="row">
     <div class="col-lg-5 col-10 mx-auto">
+      <!-- form to submit new csv file -->
       <form class="d-flex gap-2 form-theme" enctype="multipart/form-data" id="getcsv">
         <input class="form-control" type="file" id="csvfile" name="csvFile" placeholder="Choose CSV"/>
         <button class="btn btn-outline-primary" type="submit">Upload</button>
@@ -12,9 +13,11 @@
 </div>
 <div class="container">
   <div class="row">
+    <!-- table for displaying all csv files -->
     <div class="col-12"  id="table-container">
       <h5 class="text-center">YOUR CSV FILES</h5>
       <table id="upload-table" class="table table-borderless">
+        <!-- table head -->
         <thead>
           <tr>
             <th scope="col">Name</th>
@@ -22,6 +25,7 @@
             <th scope="col" class="btn-column text-center">Delete</th>
           </tr>
         </thead>
+        <!-- table body to rendered from frontend -->
         <tbody class="table-group-divider">
           
         </tbody>

@@ -16,7 +16,7 @@ function checkFileType(file, cb) {
   const filetypes = /csv/; //allowed ext
   const extname = filetypes.test(path.extname(file.originalname).toLowerCase()); //Check ext
   const mimetype = filetypes.test(file.mimetype); //check mime
-
+  //check for both mime and extension
   if (mimetype && extname) {
     return cb(null, true);
   } else {

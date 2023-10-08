@@ -11,6 +11,7 @@ function load_table() {
     success: function (res) {
       var html = "";
       if (res.csvfile.length > 0) {
+        //render table body with every csv file detail
         for (var count = 0; count < res.csvfile.length; count++) {
           html +=
           `<tr scope="row">
@@ -28,13 +29,16 @@ function load_table() {
 //add new csv file
 $(`#getcsv`).on("submit", function (event) {
   event.preventDefault();
+  // get form data
   var formdata = new FormData(this);
   var fileInput = document.getElementById('csvfile');
   var filePath = fileInput.value;
+  // check if uploaded file has an extension of .csv and return alert
   var allowedExtensions = /(\.csv)$/i;
   if(!allowedExtensions.exec(filePath)){
     alert('Invalid file type. Only csv');
   } else {
+    // make ajax call to add new uploaded csv
     $.ajax({
       type: "POST",
       url: "/upload-csv",
@@ -42,6 +46,7 @@ $(`#getcsv`).on("submit", function (event) {
       processData: false,
       contentType: false,
       success: function (res) {
+        // append new csv file added into table dynamically
         html =
           `<tr scope="row">
             <td>` + res.response.name + `</td>

@@ -5,8 +5,8 @@ const expressLayouts = require('express-ejs-layouts');
 const db = require('./config/mongoose');
 const path = require('path');
 
-//port number 
-const port = 8000;
+//set the port for website
+const port = process.env['PORT'];
 
 //setup static files folder
 app.use(express.static('./assets'));
@@ -35,5 +35,5 @@ app.listen(port, (err) => {
     console.log("******error encountered in listening to port********");
     return;
   }
-  console.log("server running at 8000");
+  console.log("server running at ", port);
 });

@@ -4,7 +4,7 @@ var is_total_set = false;
 var row_total = 0;
 var csv_data;
 
-//renders data for the first time by fetching data from databse
+//ajax call that renders data for the first time by fetching data from databse
 $.ajax({
   url: `/csv/fetch_csv_data?id=${id}`,
   method: "GET",
@@ -13,7 +13,7 @@ $.ajax({
   success: function (data) {
     getResponse(data);
     if(!is_total_set){
-      set_total(data.length);
+      set_total(data.length); //set how many columns in table
     }
     render_head(data); //render head of table
     render_body(data, 0); //render body of table from column 0

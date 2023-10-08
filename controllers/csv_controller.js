@@ -12,9 +12,9 @@ module.exports.view = async function (req, res){
 module.exports.fetch_csv_data = async function (req, res) {
   try{
     let csvfile = await CSV.findById(req.query.id); //select file with id from database
-    csv_to_json().fromFile(csvfile.path)
+    csv_to_json().fromFile(csvfile.path) //render file fetched to json
     .then(data => {
-      return res.send(data);
+      return res.send(data); //send response data
     });
   } catch(err) {
     console.log("error occured", err);

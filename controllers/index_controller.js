@@ -1,5 +1,5 @@
 const CSV = require("../models/csv");
-const { unlink } = require('node:fs/promises');
+const fs = require('fs').promises;
 
 //method for home page view
 module.exports.home = async function (req, res) {
@@ -45,7 +45,7 @@ module.exports.uploadcsv = async function (req, res, next) {
 module.exports.destroy = async function (req, res) {
   try {
     let csvfile = await CSV.findByIdAndDelete(req.query.id); //delete file from database
-    unlink(csvfile.path); //delete files from uploads
+    fs.unlink(csvfile.path); //delete files from uploads
     return res.redirect("back");
   } catch(err){
     console.log("Files cannot be deleted", err);
